@@ -16,6 +16,7 @@ All credits to HackerOne team:
 * Mobile Hacking Crash Course: https://www.youtube.com/watch?v=hKF89TXttnw
 * Android Quickstart: https://www.youtube.com/watch?v=y0O3sCX9ftM
 * iOS Quickstart: https://www.youtube.com/watch?v=c4M8sd9lcFU
+* Native Code Crash Course: https://www.youtube.com/watch?v=NeeCfLNyTwo
 
 # Reports
 
