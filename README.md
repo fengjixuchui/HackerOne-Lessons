@@ -18,6 +18,7 @@ All credits to HackerOne team:
 * iOS Quickstart: https://www.youtube.com/watch?v=c4M8sd9lcFU
 * Native Code Crash Course: https://www.youtube.com/watch?v=NeeCfLNyTwo
 * Game Hacking Basics: https://www.youtube.com/watch?v=mfmwimU96Qk
+* Common Android Bugs Pt.1: https://www.youtube.com/watch?v=sQ_34dI_geU
 
 # Reports
 
