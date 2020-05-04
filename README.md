@@ -19,6 +19,7 @@ All credits to HackerOne team:
 * Native Code Crash Course: https://www.youtube.com/watch?v=NeeCfLNyTwo
 * Game Hacking Basics: https://www.youtube.com/watch?v=mfmwimU96Qk
 * Common Android Bugs Pt.1: https://www.youtube.com/watch?v=sQ_34dI_geU
+* Common Android Bugs Pt.2: https://www.youtube.com/watch?v=tt1f4pcI0jo
 
 # Reports
 
